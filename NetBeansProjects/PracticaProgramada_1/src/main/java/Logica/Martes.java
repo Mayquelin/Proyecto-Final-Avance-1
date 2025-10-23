@@ -11,5 +11,5 @@ public class Martes extends Planetas{
     public void calcularYear() {
         System.out.println("El año en " + getNombre() + " dura " + duracionYearMarciano + " días terrestres.");
     }
-    
+     public void calcular(){}
 }
